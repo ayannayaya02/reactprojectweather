@@ -28,13 +28,13 @@ return (
           alt="Partly Cloudy"
         />
         6 °C
+        </div>
       <div className="col-6">
           <ul>
             <li>Percipitation: 15%</li>
             <li>Humidity: 72%</li>
             <li>Wind: 13km/h</li>
           </ul>
-        </div>
         </div>
         </div>
         </div>
