@@ -14,7 +14,11 @@ export default function App () {
           <a href="#" target="_blank">
             Ayanna Fofana
           </a>{" "}
-          and is {""} <a href="">Open-Source-Code</a> on Github
+          and is {""}{" "}
+          <a href="https://github.com/ayannayaya02/reactprojectweather">
+            Open-Source-Code
+          </a>{" "}
+          on Github
         </footer>
       </div>
     </div>
