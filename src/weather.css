@@ -1,4 +1,61 @@
 .weather{
     background: #f9f9f9;
+    border-radius:4px;
+    max-width:800px;
+    margin:30px auto;
+    padding:15px;
+        color:rgb (135,135,135);
     border:1px solid #dadde1;
+}
+
+.weather h1{
+    display:block;
+        color:#878787;
+font-family:arial;
+    font-size:25px;
+    font-weight:100;
+    line-height:29px;
+    text-align:left;
+}
+
+.weather form{
+    margin-bottom:20px;
+}
+.weather .list{
+    font-size:15px;
+    line-height:19px;
+    text-align:left;
+        color:#878787;
+}
+
+.weather img{
+    display:inline-block;
+    line-height:64px;
+
+
+}
+
+.weather .list{
+    text-align:left;
+}
+
+.weather .left{
+    text-align:left;
+}
+
+.weather .temp{
+    font-weight:bold;
+    color:rgb(33,33,33);
+    line-height:64px;
+    font-size:64px;
+    font-weight:400;
+
+}
+
+.weather .unit, .weather .fahrenheit{
+    color:rgb(33,33,33);
+    font-size:16px;
+    font-weight:400;
+    position:relative;
+    top:-32px;
 }
