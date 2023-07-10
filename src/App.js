@@ -8,7 +8,7 @@ export default function App () {
     <div className="App">
       <div className="container">
         <h1>Weather</h1>
-        <Weather city="Paris"/>
+        <Weather defaultCity="Paris"/>
         <footer>
           Coded by{" "}
           <a href="#" target="_blank">
