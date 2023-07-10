@@ -22,7 +22,7 @@ import Conversion from "./conversion";
                 <WeatherIcon code={props.data.icon} size={52}/>
 </div>
 
-              <div>
+              <div className="weatherTemperature">
               <Conversion celsius={props.data.temperature}/>
               </div>
               </div>
