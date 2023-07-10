@@ -8,13 +8,13 @@ export default function App () {
     <div className="App">
       <div className="container">
         <h1>Weather</h1>
-        <Weather />
+        <Weather city="Paris"/>
         <footer>
           Coded by{" "}
           <a href="#" target="_blank">
             Ayanna Fofana
           </a>{" "}
-          and is {""}{" "}
+          and is {" "}
           <a href="https://github.com/ayannayaya02/reactprojectweather">
             Open-Source-Code
           </a>{" "}
